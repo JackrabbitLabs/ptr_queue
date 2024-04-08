@@ -19,7 +19,7 @@
 
 #include <linux/types.h>
 
-#include "ptrqueue.h"
+#include "main.h"
 
 /* MACROS ====================================================================*/
 
